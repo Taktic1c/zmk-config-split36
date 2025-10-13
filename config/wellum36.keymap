@@ -88,7 +88,7 @@
 
         NAV {
             bindings = <
-&none  &none  &none  &none  &none  &none  &kp LG(LEFT)  &kp LG(UP)  &kp LG(RIGHT)  &kp LBKT  &none  &kp LEFT_COMMAND  &kp LSHFT  &kp LALT  &none  &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT  &kp APOS  &none  &none  &none  &none  &none  &kp GRAVE  &none  &COMMA_RU  &DOT_RU  &none  &none  &mo 4  &none  &kp ENTER  &kp DELETE  &none
+&none  &none  &none  &none  &none  &none  &kp LGUI  &kp LSHFT  &kp LALT  &none  &kp LS(LG(C_POWER))  &none  &none  &none  &none  &none  &mo 4  &none  &none  &kp LG(LEFT)  &kp LG(UP)  &kp LG(RIGHT)  &kp LBKT  &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT  &kp APOS  &kp GRAVE  &none  &COMMA_RU  &DOT_RU  &kp RBKT  &kp ENTER  &kp DELETE  &caps_word
             >;
         };
 
