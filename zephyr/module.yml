@@ -1,4 +1,4 @@
-name: zmk-keyboards-wellum36
+name: zmk-keyboards-split36
 build:
   settings:
     board_root: .
