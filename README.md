@@ -2,26 +2,26 @@
 
 ## Base layer
 
-![wellum-preview](./images/wellum-preview.jpg)
+![base-preview](./images/base.png)
 
 ## Nav layer
 
-![wellum-preview](./images/wellum-preview.jpg)
+![nav-preview](./images/nav.png)
 
 ## Num layer
 
-![wellum-preview](./images/wellum-preview.jpg)
+![num-preview](./images/num.png)
 
 ## Vim layer
 
-![wellum-preview](./images/wellum-preview.jpg)
+![vim-preview](./images/vim.png)
 
-## Connect layer
+## BT layer
 
-![wellum-preview](./images/wellum-preview.jpg)
+![bt-preview](./images/bt.png)
 
 ## Ссылки
 
-[редактор раскладок](https://nickcoutsos.github.io/keymap-editor/)
-[редактор визуализации](https://nickcoutsos.github.io/keymap-layout-tools/)
-[ZMK дока](https://zmk.dev/docs)
+- [редактор раскладок](https://nickcoutsos.github.io/keymap-editor/)
+- [редактор визуализации](https://nickcoutsos.github.io/keymap-layout-tools/)
+- [ZMK дока](https://zmk.dev/docs)
