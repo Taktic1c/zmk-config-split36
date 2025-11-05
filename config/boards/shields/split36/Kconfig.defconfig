@@ -1,4 +1,4 @@
-if SHIELD_SPLIT36_RIGHT
+if SHIELD_SPLIT36_LEFT
 
 config ZMK_KEYBOARD_NAME
 	default "Split"

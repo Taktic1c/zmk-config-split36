@@ -25,3 +25,4 @@
 - [редактор раскладок](https://nickcoutsos.github.io/keymap-editor/)
 - [редактор визуализации](https://nickcoutsos.github.io/keymap-layout-tools/)
 - [ZMK дока](https://zmk.dev/docs)
+- [клавиатура Lapka от braindefender](https://github.com/braindefender/lapka)
